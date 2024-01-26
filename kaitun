@@ -78,6 +78,6 @@ _G.KaitunConfig = {
     -- Fruit2
     ["Safe Fruit"] = {"Dragon-Dragon","Kitsune-Kitsune","Leopard-Leopard","Dough-Dough"}, -- will not use this fruit to raids or anyting
 }
-_G.Key = "Haodeptrais1tg"
-_G.DiscordId = "908209002658295839"
+_G.Key = "hii74zkg"
+_G.DiscordId = "9082090447898295839"
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Natsuhanaki/Royx_PC/main/loader.lua"))();
